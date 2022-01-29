@@ -3,16 +3,10 @@ body{
     background-color: brown;
 }
 
-.imagenPresentacion{
+.ImagenAlto{
+    margin-top: 3.5em;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: row;
-}
-img{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 50em;
-    width: 145em;
+    flex-direction: column;
 }
