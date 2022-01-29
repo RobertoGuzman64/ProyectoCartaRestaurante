@@ -4,3 +4,7 @@ body{
 .contenido{
     margin-top: 5em;
 }
+.logo{
+    height: 2em;
+    width: auto;
+}
