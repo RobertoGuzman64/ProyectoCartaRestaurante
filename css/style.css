@@ -14,7 +14,3 @@ body{
     height: 2em;
     width: auto;
 }
-.carousel .item > img {
-    display: block;
-    line-height: 1;
-  }
