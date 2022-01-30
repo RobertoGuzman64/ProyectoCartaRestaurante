@@ -5,3 +5,8 @@ body{
     height: 2em;
     width: auto;
 }
+.contenedor{
+    margin-top: 5em;
+    margin-left: 5em;
+    margin-right: 5em;
+}
