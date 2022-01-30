@@ -3,14 +3,10 @@ body{
     background-color: brown;
 }
 
-.ImagenAlto{
-    margin-top: 3.5em;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
 .logo{
     height: 2em;
     width: auto;
+}
+.container{
+    margin-top: 3.5em;
 }
