@@ -3,6 +3,7 @@ body{
 }
 .contenido{
     margin-top: 5em;
+    margin-block-end: 5em;
 }
 .logo{
     height: 2em;
