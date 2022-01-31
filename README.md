@@ -1,18 +1,20 @@
 # PROYECTO DE RESTAURANTE KFC
 
-Página web sencilla de el restaurante kfc
+Página web sencilla de el restaurante kfc.
 
 ## MATERIAL
 
-imagenes descargadas de la pagina oficial de KFC
+imagenes descargadas de la pagina oficial de KFC.
 
 # CONSTRUIDO CON
 
-Visual Studio Code y Boostrap
+Visual Studio Code y Boostrap.
 
 # SENSACIONES
 
-Me a resultado muy dificil algunos detalles
+Me a resultado muy dificil algunos detalles.
+
+A sido divertido.
 
 # AUTOR
 
